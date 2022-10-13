@@ -1,4 +1,5 @@
 /**
+ * lol types in javascript jajaja
  * @typedef { import('sweetalert2').default } SweetAlert2
  * @typedef { import('sweetalert2').SweetAlertOptions } SweetAlertOptions
  * @typedef { import('sweetalert2').SweetAlertIcon } SweetAlertIcon
